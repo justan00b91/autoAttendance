@@ -16,7 +16,7 @@ A selenium project to automate the process of marking attendance in my universit
   ```bash
   $> git clone https://github.com/justan00b91/Attendance.git
   $> cd Attendance
-  $> pip install selenium
+  $> pip3 install selenium
   ```
   
   Open the code `main.py` in a text editor (vim or vi) and edit the username, password and link to the attendance page.
