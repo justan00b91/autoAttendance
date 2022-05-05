@@ -1,4 +1,4 @@
-# Attendance
+# autoAttendance
 A selenium project to automate the process of marking attendance in my university.
 
 ## Description:
@@ -7,7 +7,7 @@ A selenium project to automate the process of marking attendance in my universit
   Using this simple fact, the seleium toolkit logins the account and checks for open attendance links in each course.
   If it finds an open attendance, then it marks present.
   
-  Otherwise, `Attendance is closed in <NAME>.` message is displayed.
+  Otherwise, `Attendance is closed in <NAME>` message is displayed.
   
 ## Requirements:
   The code requires Python 3.x+ version installed in the system.
@@ -17,7 +17,7 @@ A selenium project to automate the process of marking attendance in my universit
 ## Usage:
   Clone the repo using the following command and install the dependencies.
   ```bash
-  $> git clone https://github.com/justan00b91/Attendance.git
+  $> git clone https://github.com/justan00b91/autoAttendance.git
   $> cd Attendance
   $> pip3 install selenium
   ```
